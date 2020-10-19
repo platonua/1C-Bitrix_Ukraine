@@ -71,7 +71,7 @@
 * Сохраняем ещё раз.
 
 ## Ссылка для коллбеков:
-https://ВАШ_САЙТ/index.php?route=payment/platon/callback
+https://ВАШ_САЙТ/personal/order/payment/result.php
 
 ## Тестирование:
 В целях тестирования используйте наши тестовые реквизиты.
